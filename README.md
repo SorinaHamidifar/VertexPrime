@@ -1,2 +1,2 @@
 # VertexPrime
-The highest point of creativity and engineering, 
+The highest point of creativity 
