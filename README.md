@@ -43,7 +43,7 @@ if __name__ == "__main__":
 
 # ---------- core/creativity.py ----------
 """
-Creative idea gener
+Creative idea generate
 """
 
 
